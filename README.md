@@ -1,6 +1,4 @@
-<img alt="upcp" src="https://github.com/user-attachments/assets/72421405-976f-43fd-b7cf-a993b81ad7ab" />
-
-### Universal PLC Communication Platform
+<img alt="UPCP Technologielogo mit PLC-Leiste" src="https://github.com/user-attachments/assets/739a993f-11a4-48fc-84d1-4e98fe9b0527" />
 
 **One API. Multiple PLC protocols.**
 

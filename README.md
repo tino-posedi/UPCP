@@ -1,4 +1,4 @@
-<img width="2172" height="724" alt="upcp" src="https://github.com/user-attachments/assets/72421405-976f-43fd-b7cf-a993b81ad7ab" />
+<img alt="upcp" src="https://github.com/user-attachments/assets/72421405-976f-43fd-b7cf-a993b81ad7ab" />
 
 ### Universal PLC Communication Platform
 

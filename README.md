@@ -18,7 +18,7 @@ Connect to supported controllers, read variables, write values, and build indust
 ### Example API
 
 ```python
-from upcp_plc import PLC
+from upcp import PLC
 
 with PLC.connect("modbus://192.168.1.100") as plc:
     temperature = plc.read("holding:100")

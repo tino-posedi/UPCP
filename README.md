@@ -25,7 +25,6 @@ with PLC.connect("modbus://192.168.1.100") as plc:
     print(temperature)
 ```
 
-*The example illustrates the planned API and is not yet released.*
 
 ### Project goals
 
@@ -37,7 +36,3 @@ with PLC.connect("modbus://192.168.1.100") as plc:
 - Community-driven protocol support
 
 **Built for automation engineers. Designed for Python developers.**
-
----
-
-*UPCP is an independent open-source project and is not affiliated with PLC manufacturers.*
